@@ -11,6 +11,7 @@ cask "armcord" do
   app "armcord.app"
 
   zap trash: [
+    "~/Desktop/armcord",
     "~/Library/Application Support/ArmCord",
     "~/Library/Preferences/com.smartfridge.armcord.plist",
     "~/Library/Saved Application State/com.smartfridge.armcord.savedState",
