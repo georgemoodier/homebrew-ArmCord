@@ -12,9 +12,9 @@ cask "legcord" do
   app "legcord.app"
 
   zap trash: [
-    "~/Desktop/armcord",
-    "~/Library/Application Support/ArmCord",
-    "~/Library/Preferences/com.smartfridge.armcord.plist",
-    "~/Library/Saved Application State/com.smartfridge.armcord.savedState",
-  ]
+  "~/Library/Application Support/com.apple.sharedfilelist/com.apple.LSSharedFileList.ApplicationRecentDocuments/app.legcord.legcord.sfl3",
+  "~/Library/Application Support/legcord",
+  "~/Library/Preferences/app.legcord.Legcord.plist",
+  "~/Library/Saved Application State/app.legcord.Legcord.savedState",
+   ]
 end
