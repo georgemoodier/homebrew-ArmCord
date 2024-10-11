@@ -1,4 +1,4 @@
-# my personal archive of homebrew-legcord, go [here](https://github.com/legcord/homebrew-legcord/tree/main) for the right place
+# my personal archive of homebrew-legcord
 
 ## homebrew-legcord
 The Homebrew repo for installing, uninstalling, and updating LegCord.
