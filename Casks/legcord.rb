@@ -7,7 +7,6 @@ cask "legcord" do
   name "legcord"
   desc "Custom lightweight Discord client designed to enhance your experience"
   homepage "https://legcord.app/"
-
   depends_on macos: ">= :catalina"
 
     livecheck do
