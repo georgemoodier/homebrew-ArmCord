@@ -4,10 +4,6 @@
 The Homebrew repo for installing, uninstalling, and updating LegCord.
 
 ### Getting Started 
-Tap the repo:
-```
-brew tap legcord/legcord
-```
 
 install with: 
 ```
