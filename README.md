@@ -1,20 +1,20 @@
-# my personal archive of homebrew-armcord, go [here](https://github.com/ArmCord/homebrew-armcord/tree/main) for the right place
+# my personal archive of homebrew-legcord, go [here](https://github.com/legcord/homebrew-legcord/tree/main) for the right place
 
-## homebrew-armcord
-The Homebrew repo for installing, uninstalling, and updating ArmCord.
+## homebrew-legcord
+The Homebrew repo for installing, uninstalling, and updating LegCord.
 
 ### Getting Started 
 Tap the repo:
 ```
-brew tap armcord/armcord
+brew tap legcord/legcord
 ```
 
 install with: 
 ```
-brew install --cask armcord
+brew install --cask legcord
 ```
 
 uninstall with:
 ```
-brew uninstall --cask armcord
+brew uninstall --cask legcord
 ```
